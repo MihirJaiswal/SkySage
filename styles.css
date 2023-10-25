@@ -66,6 +66,10 @@ h1 {
     margin-bottom: 10px;
 }
 
+.btn:hover{
+    background-color: rgb(6, 134, 126);
+}
+
 .sub-container{
     display:flex;
     flex-direction:column;
